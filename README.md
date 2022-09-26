@@ -1,5 +1,5 @@
 # NLW eSports
-Projeto da Rocketseat com o objetivo de desenvolver uma aplicação em ReactJS, React Native e NodeJS. O obejetivo é encontrar parceiros para criar Duos em jogos populares.
+Projeto da Rocketseat com o objetivo de desenvolver uma aplicação em ReactJS, React Native e NodeJS. O objetivo é encontrar parceiros para criar Duos em jogos populares.
  
 ## 📱 Versão WEB
 
